@@ -18,9 +18,14 @@ def finisruin():
     zruin()
     zruin()
 
-def cosmicruin():
+def vastruin():
     finisruin()
     finisruin()
     finisruin()
 
-# DO NOT RUN
+def cosmicruin():
+    vastruin()
+    vastruin()
+    vastruin()
+
+# DO NOT TOUCH
