@@ -1,6 +1,3 @@
-from re import I
-
-
 customer_name = input("What is your name? ")
 starting_balance = 5000.25
 print(f"Hello {customer_name}, your balance is ${starting_balance}")
