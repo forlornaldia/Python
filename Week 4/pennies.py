@@ -17,8 +17,13 @@ bar3 = int((check2 - check3)/Dime)
 bar4 = int((check3 - check4)/Nickel)
 bar5 = int((check4 - check5)/Penny)
 
-print("Dollars:",bar1)
-print("Quarters:",bar2)
-print("Dimes:",bar3)
-print("Nickels:",bar4)
-print("Pennies",bar5)
+if bar1 > 0 :
+    print("Dollars:",bar1)
+if bar2 > 0:
+    print("Quarters:",bar2)
+if bar3 > 0:
+    print("Dimes:",bar3)
+if bar4 > 0:
+    print("Nickels:",bar4)
+if bar5 > 0:
+    print("Pennies",bar5)
