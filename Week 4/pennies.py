@@ -1,4 +1,4 @@
-Input = int(input("Please enter da cash man: "))
+Input = int(input("Please enter the amount of pennies you have: "))
 Penny = 1
 Nickel = 5
 Dime = 10
