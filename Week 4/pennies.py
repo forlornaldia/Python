@@ -27,3 +27,5 @@ if bar4 > 0:
     print("Nickels:",bar4)
 if bar5 > 0:
     print("Pennies",bar5)
+if Input == 0:
+    print("Error: You got no money!")
