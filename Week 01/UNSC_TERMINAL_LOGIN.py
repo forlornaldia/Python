@@ -14,7 +14,7 @@ print("0----0----0----0----0----0----0----0")
 time.sleep(0.4)
 print("ID VALID")
 time.sleep(0.3)
-if ID == "117":
+if (ID == "117"):
     EE = "MASTER CHIEF"
 if ID == "B312":
     EE = "NOBLE SIX"

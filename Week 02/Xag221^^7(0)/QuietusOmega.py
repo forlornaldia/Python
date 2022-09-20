@@ -23,9 +23,15 @@ def vastruin():
     finisruin()
     finisruin()
 
-def cosmicruin():
+def extramundaneruin():
     vastruin()
     vastruin()
     vastruin()
 
+def cosmicruin():
+    extramundaneruin()
+    extramundaneruin()
+    extramundaneruin()
+
+    
 # DO NOT TOUCH
