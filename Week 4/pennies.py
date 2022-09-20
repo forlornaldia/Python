@@ -1,9 +1,9 @@
 Input = int(input("Please enter da cash man: "))
 Penny = 1
-Nickel = Penny * 5
-Dime = Penny * 10
-Quarter = Penny * 25
-Dollar = Penny * 100
+Nickel = 5
+Dime = 10
+Quarter = 25
+Dollar = 100
 
 check1 = int(Input % Dollar)
 check2 = int(check1 % Quarter)
